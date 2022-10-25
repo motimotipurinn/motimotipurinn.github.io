@@ -20,3 +20,4 @@
 |Qiita|[@motimotipurinn](http://qiita.com/motimotipurinn)|備忘録|
 |GitHub|[@motimotipurinn](https://github.com/motimotipurinn)  [@motimotipurinn(Gist)](https://gist.github.com/motimotipurinn)||
 |AtCoder|[motimotipurinn](https://atcoder.jp/users/motimotipurinn)|競技プログラミング|
+|はてなブログ|[motimotipurinn](https://motimotipurinn.hatenablog.com/)|Qiitaにのっけてない記事|
