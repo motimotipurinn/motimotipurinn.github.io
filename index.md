@@ -16,7 +16,7 @@
 
 |サービス|アカウント|備考|
 |:---|:---|:---|
-|Twitter|[@motimoti_purinn](https://twitter.com/motimoti_purinn)|更新情報を中心につぶやいているツイッター|
-|Qiita|[@motimotipurinn](http://qiita.com/motimotipurinn)|プログラム系のまとまった情報はこちらに投稿|
+|Twitter|[@motimoti_purinn](https://twitter.com/motimoti_purinn)|だいたいここにいる|
+|Qiita|[@motimotipurinn](http://qiita.com/motimotipurinn)|備忘録|
 |GitHub|[@motimotipurinn](https://github.com/motimotipurinn)  [@motimotipurinn(Gist)](https://gist.github.com/motimotipurinn)||
 |AtCoder|[motimotipurinn](https://atcoder.jp/users/motimotipurinn)|競技プログラミング|
