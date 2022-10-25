@@ -1,0 +1,11 @@
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
+title: "@もちもちまとめ"
+description: "競技プログラミングやCTFをしている高1"
+logo: img/motimotipurinn.png
+
+twitter:
+  username: motimoti_purinn
