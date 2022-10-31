@@ -30,6 +30,8 @@ RoboCup Asia-Pacific Tianjin Invitational 2021 CoSpace Rescue University
 
 PG BATTLE 2021「高校、中学、小学校、その他スクールの部」15位
 
+PG BATTLE 2022「高校、中学、小学校、その他スクールの部」18位
+
 パソコン甲子園2022 新人賞
 # Career
 
