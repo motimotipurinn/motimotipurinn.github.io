@@ -58,6 +58,10 @@ PG BATTLE 2022「高校、中学、小学校、その他スクールの部」18�
 
 ・Papers
 
+|title|link|
+|:---|:---|
+|TextRank: Bringing Order into Text|[@link](https://aclanthology.org/W04-3252/)|
+
 ・slide
 
 |title|link|
