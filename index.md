@@ -61,6 +61,7 @@ PG BATTLE 2022「高校、中学、小学校、その他スクールの部」18�
 |title|link|
 |:---|:---|
 |TextRank: Bringing Order into Text|[@link](https://aclanthology.org/W04-3252/)|
+|Cryptanalysis of short RSA secret exponents|[@link](https://ieeexplore.ieee.org/document/54902)|
 
 ・slide
 
