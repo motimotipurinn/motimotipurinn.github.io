@@ -56,6 +56,10 @@ PG BATTLE 2022「高校、中学、小学校、その他スクールの部」18�
 
 ・Books
 
+|title|link|
+|:---|:---|
+|自然言語処理|[@link](https://amzn.asia/d/0CN7KQY)|
+
 ・Papers
 
 |title|link|
