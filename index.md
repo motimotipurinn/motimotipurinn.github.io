@@ -9,7 +9,7 @@ MY CTF TEAM: AWP?
 
 セキュリティキャンプ全国大会2021オンライン 暗号数理実装トラックL-I 暗号解読チャレンジゼミ 修了
 
-CODE BLUE2022　学生スタッフ
+SECCON BEGINNERS(ctf4b)運営
 
 国立情報学研究所グローバルサイエンスキャンパス　情報科学の達人3期生
 
@@ -25,6 +25,8 @@ Virtual RoboCup Asia-Pacific 2020 CoSpace Rescue First Step U19  Finalist & Best
 
 RoboCup Junior2022けいはんなコスペース部門全国大会 3th
 
+RoboCup Junior2023全国予選大会Rescue Simulation部門2th
+
 RoboCup Asia-Pacific Tianjin Invitational 2021 CoSpace Rescue University
 2ndPLACE &Influencer Award-Educational Value 1stPLACE
 
@@ -37,6 +39,12 @@ PG BATTLE 2022「高校、中学、小学校、その他スクールの部」18�
 セキュリティミニキャンプ2022 in Tokyo参加
 
 日本言語学オリンピック2023(JOL2023)金賞
+
+アジア太平洋言語学オリンピック2023日本代表に選抜
+
+東京大学松尾研究室スプリングセミナー2023「深層強化学習」参加
+
+CODE BLUE2022　学生スタッフ
 
 # Career
 
@@ -59,18 +67,33 @@ PG BATTLE 2022「高校、中学、小学校、その他スクールの部」18�
 
 # Read
 
-・Books
-
-|title|link|
-|:---|:---|
-|自然言語処理|[@link](https://amzn.asia/d/0CN7KQY)|
-
 ・Papers
 
 |title|link|
 |:---|:---|
 |TextRank: Bringing Order into Text|[@link](https://aclanthology.org/W04-3252/)|
+|Research on Information Retrieval System that Supports Keyword Selection based on Generalized Concept and Coverage|[@link](https://www.jstage.jst.go.jp/article/tjsai/20/4/20_4_270/_article)|
+|Enhancing credibility judgment of web search results|[@link](https://dl.acm.org/doi/10.1145/1978942.1979126)|
 |Cryptanalysis of short RSA secret exponents|[@link](https://ieeexplore.ieee.org/document/54902)|
+|A Generalized Wiener Attack on RSA|[@link](https://www.iacr.org/archive/pkc2004/29470001/29470001.pdf)|
+
+・Books
+
+|title|link|
+|:---|:---|
+|自然言語処理|[@link](https://amzn.asia/d/0CN7KQY)|
+|言語処理のための機械学習入門|[@link](https://amzn.asia/d/a66Vl3z)|
+|入門セキュリティコンテスト|[@link](https://amzn.asia/d/8cE27iR)|
+|セキュリティコンテストチャレンジブック|[@link](https://amzn.asia/d/8BNBWKV)|
+|プログラミングコンテストチャレンジブック|[@link](https://amzn.asia/d/7XERcpK)|
+|問題解決力を鍛える!アルゴリズムとデータ構造|[@link](https://amzn.asia/d/2cl5UH3)|
+|問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本|[@link](https://amzn.asia/d/gjJbBdk)|
+|ゼロから作るDeep Learning|[@link](https://amzn.asia/d/8v8e9bI)|
+|エッセンシャル・キャンベル生物学 原書6版|[@link](https://amzn.asia/d/gkqgVie)|
+|生態学入門(第2版)|[@link](https://amzn.asia/d/8AJJ77U)|
+||[@link]()|
+
+
 
 ・slide
 
