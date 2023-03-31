@@ -79,6 +79,7 @@ CODE BLUE2022　学生スタッフ
 
 |title|link|
 |:---|:---|
+|言語類型論入門|[@link](https://amzn.asia/d/bqTP8am)|
 |自然言語処理|[@link](https://amzn.asia/d/0CN7KQY)|
 |言語処理のための機械学習入門|[@link](https://amzn.asia/d/a66Vl3z)|
 |入門セキュリティコンテスト|[@link](https://amzn.asia/d/8cE27iR)|
