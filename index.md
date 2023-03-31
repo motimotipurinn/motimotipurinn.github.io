@@ -59,10 +59,8 @@ CODE BLUE2022　学生スタッフ
 
 |サービス|アカウント|備考|
 |:---|:---|:---|
-|Twitter|[@motimoti_purinn](https://twitter.com/motimoti_purinn)|だいたいここにいる|
 |Qiita|[@motimotipurinn](http://qiita.com/motimotipurinn)|備忘録|
 |GitHub|[@motimotipurinn](https://github.com/motimotipurinn)  [@motimotipurinn(Gist)](https://gist.github.com/motimotipurinn)||
-|AtCoder|[motimotipurinn](https://atcoder.jp/users/motimotipurinn)|競技プログラミング|
 |はてなブログ|[motimotipurinn](https://motimotipurinn.hatenablog.com/)|Qiitaにのっけてない記事|
 
 # Read
