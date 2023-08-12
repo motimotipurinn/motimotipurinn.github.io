@@ -2,6 +2,7 @@
 名前：もちもち（@motimoti_purinn)
 
 高2です
+
 自作OS&コンパイラと自然言語処理の研究をしています
 
 MY CTF TEAM: AWP?
