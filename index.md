@@ -1,7 +1,8 @@
 # Profile
-名前：もちもち（@motimoti_purinn）
+名前：もちもち（@motimoti_purinn)
 
-競技プログラミングとかCTFとかしてる高1です
+高2です
+自作OS&コンパイラと自然言語処理の研究をしています
 
 MY CTF TEAM: AWP?
 
