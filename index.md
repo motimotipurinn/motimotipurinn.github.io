@@ -7,15 +7,21 @@ MY CTF TEAM: AWP?
 
 # ACHIEVEMENT
 
-SecHack365'23 学習駆動
+SecHack365'23 学習駆動コース採択
 
-すごうで2023
+すごうでプログラミング2023年度採択
 
 セキュリティキャンプ全国大会2021オンライン 暗号数理実装トラックL-I 暗号解読チャレンジゼミ 修了
 
-SECCON BEGINNERS(ctf4b)運営
+SECCON BEGINNERS(ctf4b)運営にjoin
 
 国立情報学研究所グローバルサイエンスキャンパス　情報科学の達人3期生 優秀修了
+
+CODE BLUE2023　学生スタッフ
+
+SECCON BEGINNERSで北海道&オンライン配信で講義
+
+https://speakerdeck.com/motimotipurinn/seccon-beginners-live-2023-crypto
 
 第21回日本情報オリンピック(JOI2022)本選　敢闘賞
 
