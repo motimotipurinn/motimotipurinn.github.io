@@ -79,11 +79,14 @@ CODE BLUE2022　学生スタッフ
 
 |title|link|
 |:---|:---|
+|What I learned from predatory publishers|[@link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493177/)|
 |TextRank: Bringing Order into Text|[@link](https://aclanthology.org/W04-3252/)|
 |Research on Information Retrieval System that Supports Keyword Selection based on Generalized Concept and Coverage|[@link](https://www.jstage.jst.go.jp/article/tjsai/20/4/20_4_270/_article)|
 |Enhancing credibility judgment of web search results|[@link](https://dl.acm.org/doi/10.1145/1978942.1979126)|
 |Cryptanalysis of short RSA secret exponents|[@link](https://ieeexplore.ieee.org/document/54902)|
 |A Generalized Wiener Attack on RSA|[@link](https://www.iacr.org/archive/pkc2004/29470001/29470001.pdf)|
+|Three-Pass Protocol Implementation in Caesar Cipher Classic Crypto|[@link](https://www.iosrjournals.org/iosr-jce/papers/Vol18-issue4/Version-3/D1804032629.pdf)|
+|RSA暗号に対する格子理論に基づく攻撃|[@link](https://www.jstage.jst.go.jp/article/bjsiam/18/1/18_KJ00004881435/_article/-char/ja/)|
 
 ・Books
 
