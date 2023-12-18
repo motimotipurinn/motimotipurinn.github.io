@@ -3,11 +3,17 @@
 
 高2です。自作OS&コンパイラと自然言語処理の研究をしています
 
-MY CTF TEAM: AWP?
+MY CTF TEAM: Pwn's Grin
 
 # ACHIEVEMENT
 
 SecHack365'23 学習駆動コース採択
+
+Global Cybersecurity Camp 2024 Thailand 日本代表に選出
+
+総務省大学対抗CTF 3位入賞
+
+CyberSakura2023予選大会3位入賞、決勝大会進出。同大会CTF部門優勝
 
 すごうで2023年度採択
 
