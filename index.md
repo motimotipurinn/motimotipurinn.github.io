@@ -79,7 +79,7 @@ CODE BLUE2022　学生スタッフ
 |GitHub|[@motimotipurinn](https://github.com/motimotipurinn)  [@motimotipurinn(Gist)](https://gist.github.com/motimotipurinn)||
 |Twitter|[motimotipurinn](https://twitter.com/motimoti_purinn)|ここによくいます|
 
-# Read
+# Read 更新してません
 
 ・Papers
 
