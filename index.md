@@ -119,6 +119,8 @@ CODE BLUE2022　学生スタッフ
 |:---|:---|
 |CTF for beginners Network|[@link](https://www.slideshare.net/ctf4b/ctf-for-60147258)|
 
+・media
+(https://www.shimbun-online.com/product/dempatimes0240308.html)
 
 
 
